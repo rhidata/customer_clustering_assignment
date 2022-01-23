@@ -2,5 +2,5 @@
 
 repo contains experimentation files for customer clustering assignment
 
-Main project file: 
-Experimentation: 
+Main project file: <br>
+Experimentation: <br>
