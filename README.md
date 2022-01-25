@@ -3,7 +3,7 @@
 repo contains experimentation files for customer clustering assignment
 
 Main project file: <br>
-- ...
+- ... <br>
 Experimentation: <br>
 - DBSCAN experiment (poor performance)
 - FAMD experiment (failed to implement correctly)
